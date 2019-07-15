@@ -5,7 +5,10 @@ Get your FA Watches.
 ## Installation
 
 Both methods were made and tested on Windows 10 and **Python 3.7.2**.
+
 The [2nd Version](#transfer) requires [Selenium](https://pypi.org/project/selenium/), [Firefox](https://www.mozilla.org/firefox/all/) as well as Firefox' [geckodriver](https://github.com/mozilla/geckodriver/releases/latest).
+
+### Installation of 2nd Version
 
 1. Install Selenium as you would install any other Python module, `pip install selenium`.
 2. Install Firefox.
