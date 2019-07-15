@@ -26,7 +26,7 @@ I gotta see about that tho...
 ### [transfer.py](transfer.py)
 
 1. Download the file (or copy-paste it)
-2. Put your FurAffinity Credentials in [line 66](transfer.py#66).
+2. Put your FurAffinity Credentials in [line 66](transfer.py#L67).
 3. Execute the script (`python transfer.py`)
 4. Log in when you land on the Login Page. The Script will pre-fill the values, if you supplied them.
 
